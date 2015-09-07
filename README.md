@@ -1,4 +1,4 @@
 # student6
 testline2
-testline1
-testline3
+delete some lines and add some more
+and another one
