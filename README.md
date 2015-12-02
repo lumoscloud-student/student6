@@ -1,5 +1,5 @@
 # student6
-<<<<<<< HEAD
+last change jm
 mine
 
 =======
