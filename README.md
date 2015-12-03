@@ -1,6 +1,7 @@
 # student6
 last change jm
-mine
+ suppressed "mine"
+how to modify today
 
 =======
 New File by Fawzy
