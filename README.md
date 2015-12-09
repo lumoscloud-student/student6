@@ -3,6 +3,8 @@ last change jm
  suppressed "mine"
 how to modify today
 hello world
+add another new line
+modify this file for second time
 
 =======
 New File by Fawzy
