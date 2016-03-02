@@ -13,4 +13,10 @@ Adding to File !!!!!!!!
 >>>>>>> origin/master
 
 ============
+
+
+==Updating file - by Amar==
+
+1 2 3 mic check ! 
+======
 Zac appended the file
